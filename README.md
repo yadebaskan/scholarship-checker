@@ -16,4 +16,4 @@ eligible applications by a quota.
 ## Structure
 - src/main/java/com/example/scholarship: Application, ScholarshipEvaluator,
   ScholarshipRanker, EligibilityResult, ScholarshipDecision
-- src/test/java/com/example/scholarship: JUnit 5 tests (53 test cases)
+- src/test/java/com/example/scholarship: JUnit 5 tests (56 test cases)
